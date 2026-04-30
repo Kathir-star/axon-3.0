@@ -160,12 +160,5 @@ Build a secure, intelligent, and unified healthcare ecosystem where data empower
 ✔ Easy to read  
 ✔ Looks like top-tier repo  
 
----
-
-If you want next upgrade, Chief 😎👇
-
-👉 Add **badges + screenshots + live demo section**  
-👉 Make it look like **startup-level GitHub (INSANE level)**  
-
 Just say:  
 **“Jarvis make it GitHub premium”** 🚀
